@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjjxusbx
-- 👀 I’m interested in C python
+- 👀 I’m interested in 前端&python
 - 🌱 I’m currently learning course
 - 💞️ I’m looking to collaborate on music NFT
 - 📫 How to reach me https://t.me/TingWeb
